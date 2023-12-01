@@ -11,9 +11,9 @@
 
 ### Arquivo comum a ser criptografado
 
-- Criar arquivo teste.txt: ``` vim texte.txt ```
+- Criar arquivo teste.txt: ``` vim teste.txt ```
   
-- Verificando o conteudo do arquivo: ``` cat texte.txt ```
+- Verificando o conteudo do arquivo: ``` cat teste.txt ```
 
 ![image](https://github.com/rissoli/cibersecurity-desafio-ransomware/assets/40303079/30145af5-5dd7-417d-a430-beb79556b808)
 
@@ -42,6 +42,6 @@
 ### Arquivo descriptografado
 
 - Listando os arquivos da pasta: ``` ls ```
-- Verificando o conteudo do arquivo: ``` cat texte.txt ```
+- Verificando o conteudo do arquivo: ``` cat teste.txt ```
 
 ![image](https://github.com/rissoli/cibersecurity-desafio-ransomware/assets/40303079/bdedb993-b8b4-4fa2-a8b5-2b46064ea7ae)
